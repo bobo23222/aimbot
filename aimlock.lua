@@ -1,5 +1,4 @@
 getgenv().AimPart = {"Head"} -- List of aim parts to cycle through
-getgenv().AimlockToggleKey = "X" -- Toggles Aimbot On/Off 
 getgenv().AimRadius = 50 -- How far away from someones character you want to lock on at
 getgenv().FirstPerson = true -- Locking onto someone in your First Person POV
 getgenv().TeamCheck = false -- Check if Target is on your Team (True means it wont lock onto your teamates, false is vice versa) (Set it to false if there are no teams)
